@@ -1,5 +1,5 @@
 # Solo Leveling Tabs Component
-
+![Voorbeeld Pagina](voorbeeld-pagina.png)
 Een simpele tabs component gemaakt met HTML, CSS en JavaScript. De pagina gebruikt een Solo Leveling anime-frame als achtergrond en toont per tab passende content over Sung Jinwoo, het System en de subway instance dungeon.
 
 ## Features
