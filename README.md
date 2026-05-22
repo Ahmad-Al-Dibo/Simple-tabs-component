@@ -37,3 +37,5 @@ Dit project oefent basisvaardigheden in JavaScript:
 - Classes toevoegen en verwijderen
 - Content tonen en verbergen
 - Reageren op click events
+
+### [Project url](https://roadmap.sh/projects/simple-tabs-component)
