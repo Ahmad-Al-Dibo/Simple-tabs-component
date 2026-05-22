@@ -38,4 +38,4 @@ Dit project oefent basisvaardigheden in JavaScript:
 - Content tonen en verbergen
 - Reageren op click events
 
-### [Project url](https://roadmap.sh/projects/simple-tabs-component)
+### [Project url](https://roadmap.sh/projects/simple-tabs)
